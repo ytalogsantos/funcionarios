@@ -1,0 +1,11 @@
+body{
+    background-color: cadetblue;
+}
+
+header{
+    background-color: teal;
+}
+
+#titulo{
+    font-family: 'Courier New', Courier, monospace;
+}
