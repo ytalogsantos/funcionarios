@@ -1,0 +1,1 @@
+Projeto realizado em função da atividade prática proposta pelo professor Marcelo Struc, da faculdade Descomplica, na disciplina de "Desenvolvimento dinâmico".
